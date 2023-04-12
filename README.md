@@ -1,5 +1,5 @@
+   ![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Rick-and-Morty-jumping-out-of-portal.gif)
 
-![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Rick-and-Morty-jumping-out-of-portal.gif)
 <h1 align="center">Hi 👋, I'm KUNAL BANSAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
